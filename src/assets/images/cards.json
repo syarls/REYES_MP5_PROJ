@@ -1,0 +1,26 @@
+{
+    "cards": [
+        { "name": "../src/assets/fonts/+4.png", "type": "blue", "blue": "../src/assets/images/black_+4.png", "red": "../src/assets/images/black_+4.png", "yellow": "../src/assets/images/black_+4.png", "green": "../src/assets/images/black_+4.png" },
+        { "name": "../src/assets/fonts/switch color.png", "type": "blue", "blue": "../src/assets/images/black_switchColor.png", "red": "../src/assets/images/black_switchColor.png", "yellow": "../src/assets/images/black_switchColor.png", "green": "../src/assets/images/black_switchColor.png" },
+        { "name": "../src/assets/fonts/+2.png", "type": "blue", "blue": "../src/assets/images/blue_+2.png", "red": "../src/assets/images/red_+2.png", "yellow": "../src/assets/images/yellow_+2.png", "green": "../src/assets/images/green_+2.png" },
+        { "name": "../src/assets/fonts/skip.png", "type": "blue", "blue": "../src/assets/images/blue_skipped.png", "red": "../src/assets/images/red_skipped.png", "yellow": "../src/assets/images/yellow_skipped.png", "green": "../src/assets/images/green_skipped.png" },
+        { "name": "../src/assets/fonts/reverse.png", "type": "blue", "blue": "../src/assets/images/blue_reverse.png", "red": "../src/assets/images/red_reverse.png", "yellow": "../src/assets/images/yellow_reverse.png", "green": "../src/assets/images/green_reverse.png" },
+        { "name": "../src/assets/fonts/0.png", "type": "blue", "blue": "../src/assets/images/blue_0.png", "red": "../src/assets/images/red_0.png", "yellow": "../src/assets/images/yellow_0.png", "green": "../src/assets/images/green_0.png" },
+        { "name": "../src/assets/fonts/1.png", "type": "blue", "blue": "../src/assets/images/blue_1.png", "red": "../src/assets/images/red_1.png", "yellow": "../src/assets/images/yellow_1.png", "green": "../src/assets/images/green_1.png" },
+        { "name": "../src/assets/fonts/2.png", "type": "blue", "blue": "../src/assets/images/blue_2.png", "red": "../src/assets/images/red_2.png", "yellow": "../src/assets/images/yellow_2.png", "green": "../src/assets/images/green_2.png" },
+        { "name": "../src/assets/fonts/3.png", "type": "blue", "blue": "../src/assets/images/blue_3.png", "red": "../src/assets/images/red_3.png", "yellow": "../src/assets/images/yellow_3.png", "green": "../src/assets/images/green_3.png" },
+        { "name": "../src/assets/fonts/4.png", "type": "blue", "blue": "../src/assets/images/blue_4.png", "red": "../src/assets/images/red_4.png", "yellow": "../src/assets/images/yellow_4.png", "green": "../src/assets/images/green_4.png" },
+        { "name": "../src/assets/fonts/5.png", "type": "blue", "blue": "../src/assets/images/blue_5.png", "red": "../src/assets/images/red_5.png", "yellow": "../src/assets/images/yellow_5.png", "green": "../src/assets/images/green_5.png" },
+        { "name": "../src/assets/fonts/6.png", "type": "blue", "blue": "../src/assets/images/blue_6.png", "red": "../src/assets/images/red_6.png", "yellow": "../src/assets/images/yellow_6.png", "green": "../src/assets/images/green_6.png" },
+        { "name": "../src/assets/fonts/7.png", "type": "blue", "blue": "../src/assets/images/blue_7.png", "red": "../src/assets/images/red_7.png", "yellow": "../src/assets/images/yellow_7.png", "green": "../src/assets/images/green_7.png" },
+        { "name": "../src/assets/fonts/8.png", "type": "blue", "blue": "../src/assets/images/blue_8.png", "red": "../src/assets/images/red_8.png", "yellow": "../src/assets/images/yellow_8.png", "green": "../src/assets/images/green_8.png" },
+        { "name": "../src/assets/fonts/9.png", "type": "blue", "blue": "../src/assets/images/blue_9.png", "red": "../src/assets/images/red_9.png", "yellow": "../src/assets/images/yellow_9.png", "green": "../src/assets/images/green_9.png" }
+      ],
+
+    "colors": [
+      { "type": "+2", "blue": "../src/assets/images/blue_+2.png", "yellow": "../src/assets/images/yellow_+2.png", "green": "../src/assets/images/green_+2.png", "red": "../src/assets/images/red_+2.png" },
+      { "type": "Skipped", "blue": "../src/assets/images/blue_skipped.png", "yellow": "../src/assets/images/yellow_skipped.png", "green": "../src/assets/images/green_skipped.png", "red": "../src/assets/images/red_skipped.png" },
+      { "type": "Reverse","blue": "../src/assets/images/blue_reverse.png", "yellow": "../src/assets/images/yellow_reverse.png", "green": "../src/assets/images/green_reverse.png", "red": "../src/assets/images/red_reverse.png" }
+    ]
+  }
+  
